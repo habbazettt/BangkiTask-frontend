@@ -1,0 +1,1 @@
+export const BASE_URL = "https://bangki-task-api.vercel.app"
